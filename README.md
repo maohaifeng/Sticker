@@ -1,3 +1,3 @@
 # Sticker
-Sticker By MaoHaifeng
+Sticker By MaoHaifeng<br>
 Android之路
